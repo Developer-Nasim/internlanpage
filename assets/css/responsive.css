@@ -160,10 +160,19 @@
         max-width: 120px;
         margin-bottom: 25px;
     }
-    .crs-dicp-wrp ul li { 
-        width: 130px;
-        margin-bottom: 40px;
+    .crs-dicp-wrp ul li {
+        width: 100px;
+        margin-bottom: 30px;
+        margin-right: 15px;
+        font-size: 14px;
     }
+    .crs-dicp-wrp ul li img { 
+        max-width: 55px;
+        margin-bottom: 8px;
+    } 
+    .crs-dicp-wrp h2 {
+        margin-bottom: 40px; 
+    } 
     .cross-discipliary-area { 
         padding-bottom: 0; 
     }
