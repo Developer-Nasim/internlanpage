@@ -1,0 +1,214 @@
+/* 4k size */
+@media (min-width: 2400px) and (max-width: 4800px) {
+    .cross-discipliary-area:after { 
+        width: 61%; 
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    h2 {
+        font-size: 42px;
+    }
+    .cross-discipliary-area img.grdShap { 
+        height: 200px;
+    }
+    .container {
+        padding: 0 30px;
+    }
+    .cta-wrp {
+        max-width: 75%;
+    }
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    h2 {
+        font-size: 38px;
+    }
+    .industry-wrp {
+        padding-right: 0px;
+    }
+    .undertanding-wrp {
+        padding-right: 0px;
+    }
+    .container {
+        padding: 0 40px;
+    }
+    .logo a { 
+        margin: auto;
+    }
+    .header-area:after{
+        display: none;
+    } 
+    .undertand-list {
+        padding-left: 20px;
+    }
+    .header-area { 
+        padding-bottom: 50px; 
+    }
+    .industry-wrp ul.listSqure {
+        padding-left: 50px;
+    }
+    .understanding-area {
+        padding: 60px 0;
+        margin-top: 0;
+    }
+    .cross-discipliary-area:after {
+        width: 100%;
+        border-left: navajowhite;
+        border-top: 10px solid #ff5416;
+    }
+    .INDSwrp:after { 
+        width: 100%; 
+    }
+    .INDSwrp { 
+        padding-bottom: 60px;
+    }
+    .cta-area:after { 
+        width: 100%; 
+    }
+    a.flogo { 
+        margin-right: 30px;
+        max-width: 120px;
+    }
+    .footer-wrp p { 
+        font-size: 15px;
+    }
+    a.frlogo { 
+        width: 60px; 
+    }
+
+
+
+
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    h2 {
+        font-size: 28px;
+    }
+    .industry-wrp {
+        padding-right: 0px;
+    }
+    .industry-wrp ul.listSqure {
+        padding-left: 50px;
+    }
+    .header-wrp h2 {
+        margin-bottom: 20px;
+    }
+    body{
+        font-size: 15px;
+    } 
+    .header-area img.ringShap { 
+        max-width: 250px;
+    }
+    .header-img img { 
+        border-top: 10px solid #ff5416;
+    }
+    .header-wrp { 
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .header-wrp a.theme-btn {
+        margin-top: 10px;
+    } 
+    .logo a { 
+        margin: auto;
+    }
+    .header-area:after{
+        display: none;
+    } 
+    .undertand-list {
+        padding-left: 20px;
+    }
+    .header-area { 
+        padding-bottom: 50px; 
+    }
+    .understanding-area {
+        padding: 60px 0;
+        margin-top: 0;
+    }
+    .cross-discipliary-area:after {
+        width: 100%;
+        border-left: navajowhite;
+        border-top: 10px solid #ff5416;
+    }
+    .INDSwrp:after { 
+        width: 100%; 
+    }
+    .INDSwrp { 
+        padding-bottom: 60px;
+        margin-top: 20px;
+    }
+    .footer-wrp {
+        flex-wrap: wrap;
+    }
+    .cta-area:after { 
+        width: 100%; 
+    }
+    a.flogo {
+        margin-right: 0px;
+        max-width: 120px;
+        margin-bottom: 25px;
+    }
+    .crs-dicp-wrp ul li { 
+        width: 130px;
+        margin-bottom: 40px;
+    }
+    .cross-discipliary-area { 
+        padding-bottom: 0; 
+    }
+    .footer-wrp p { 
+        font-size: 15px;
+        width: 100%;
+    }
+    a.frlogo {
+        width: 60px;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .crs-dicp-wrp ul { 
+        flex-wrap: wrap;
+    }
+    .company-area {
+        padding: 50px 0;
+        padding-bottom: 30px;
+    }
+    .industry-area {
+        padding: 50px 0;
+    }
+    .cta-area {
+        padding: 50px 0; 
+    }
+    .crs-dicp-wrp { 
+        padding-left: 0px;
+    }
+    .undertanding-wrp {
+        padding-right: 0px;
+    }
+    footer {
+        padding: 35px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
