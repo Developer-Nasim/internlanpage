@@ -151,6 +151,8 @@
     }
     .footer-wrp {
         flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
     }
     .cta-area:after { 
         width: 100%; 
@@ -182,8 +184,9 @@
     }
     a.frlogo {
         width: 60px;
-        margin-left: 0;
+        margin: auto;
         margin-top: 20px;
+        display: block;
     }
     .crs-dicp-wrp ul { 
         flex-wrap: wrap;
