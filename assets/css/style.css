@@ -325,7 +325,7 @@ a.theme-btn.yellow:before {
 
 .crs-dicp-wrp ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .crs-dicp-wrp ul li img {
